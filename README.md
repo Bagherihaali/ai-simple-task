@@ -19,7 +19,7 @@
 سایر نکات :
 
  - از کتابخانه pytorch یا tensorflow برای آموزش و ارزیابی مدل ها استفاده کنیدپ
- -  داده های مورد نیاز برای آموزش مدل با فرمت MvtecAD  در این [مسیر](https://drive.google.com/file/d/1AI2M-.gEM4y66HK1NDBEeeIQq0apPzkdW/view?usp=sharing) قرار داده شده.
+ -  داده های مورد نیاز برای آموزش مدل با فرمت MvtecAD  در این [مسیر](https://drive.google.com/file/d/1AI2M-gEM4y66HK1NDBEeeIQq0apPzkdW/view?usp=sharing) قرار داده شده.
 - کد های آموزشی و نتایج بدست آمده را در یک فایل notebook ذخیره کنید
 
 نحوه ارسال پاسخ : 
