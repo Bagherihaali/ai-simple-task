@@ -1,0 +1,5 @@
+backbone: resnet18
+layers:
+- layer1
+- layer2
+- layer3
