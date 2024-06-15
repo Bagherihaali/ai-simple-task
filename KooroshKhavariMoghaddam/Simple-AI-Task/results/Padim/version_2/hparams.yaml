@@ -1,0 +1,7 @@
+backbone: resnet18
+layers:
+- layer1
+- layer2
+- layer3
+pre_trained: true
+n_features: null
